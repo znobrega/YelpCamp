@@ -1,0 +1,29 @@
+.img-thumbnail img {
+	width: 100%;
+}
+
+.img-thumbnail {
+	padding: 0;
+}
+
+.img-thumbnail .py-2 {
+	padding: 9px;
+}
+
+.card {
+	margin-top: 1rem;
+}
+
+.container {
+	margin-top: 1rem;
+}
+
+.camps {
+	text-align: center;
+	margin-bottom: 4%;
+	color: purple;
+}
+
+form#delete-form {
+	display: inline;
+}
